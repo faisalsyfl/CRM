@@ -1,0 +1,182 @@
+.log {
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+.modal-header {
+    background-color: #07575B;
+    color: White;
+}
+
+.submit-but {
+    border-radius: 0px;
+    background-color: #07575B;
+}
+
+.green {
+    z-index: 0;
+    color: #fff;
+    background-color: #07575B;
+    border-color: #07575B;
+}
+
+a.list-group-item:hover, a.list-group-item:focus {
+    color: #FDFFFF;
+    text-decoration: none;
+    background-color: #07575B;
+}
+
+.box-header {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #07575B;
+    color: white;
+    border-radius: 2px;
+    border-color: #07575B;
+}
+
+.box-container {
+    border: 1px solid #D4D4D4;
+    padding: 10px;
+    color: #555555;
+    border-color: #07575;
+}
+
+.coupon-header-container {
+    padding: 10px;
+    color: white;
+    border-radius: 2px;
+}
+
+.profile-container {
+    padding: 10px;
+    color: #C4DFE6;
+    border-color: none;
+    background-color: #003B46;
+    border-radius: 3px;
+}
+
+
+.profile-star {
+    color: #C4DFE6;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.single-product-areax {
+    padding: 40px 0 130px;
+}
+
+.box-ta {
+    border: 1px solid #E5F2F7;
+    background-color: #E5F2F7;
+}
+
+.textproblem {
+    margin-bottom: 25px;
+}
+
+.profile {
+    border: 1px solid #07575B;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.coupon.green {
+    padding-bottom: 5px;
+}
+
+.select-control {
+    border-radius: 0px;
+    background-color:#07575B;
+    color: white;
+}
+#chartdiv {
+    color : white;
+}
+
+.admin-post {
+    background-color: #eeeeef;
+}
+
+.top-label {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    margin-top: -20px;
+    margin-right: -24px;
+}
+
+.re {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.mid-body {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.code {
+    text-align: center;
+    font-size: 30px;
+}
+
+code {
+    font-size: 50px;
+    color: #FFFFFF;
+    background-color: #042D2F;
+    border-radius: 4px;
+    padding: 10px 10px;
+}
+
+.clock.flip-clock-wrapper {
+}
+
+.clock-mess {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 22px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.footer-text {
+    text-align: center;
+    font-size: 30px;
+    padding-right: 15px;
+    padding-bottom: 90px;
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+    background-color: #07575B;
+    border-color: #428bca;
+}
+
+.dropli {
+    background-color: #07575B;
+}
+
+.mainmenu-area .nav > li > a:focus {
+    color: #FFF;
+}
+
+.dropli:hover{
+    background: black;
+}
+.box-header {
+    color: #FFF;
+    display: block;
+    padding: 10px;
+    position: relative;
+}
+
+.black{
+    color:black;
+}
